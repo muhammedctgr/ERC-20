@@ -62,6 +62,7 @@ $ cast <subcommand>
 ```shell
 $ forge --help
 $ anvil --help
+$ anvil --run
 $ cast --help
 $ cast --run
 ```
