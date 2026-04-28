@@ -63,6 +63,4 @@ $ cast <subcommand>
 $ forge --help
 $ anvil --help
 $ anvil --run
-$ cast --help
-$ cast --run
 ```
